@@ -1,0 +1,26 @@
+.container {
+    position: relative;
+    background-color: lightslategray;    
+    display: hidden;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 100%;
+    text-align: center;
+}
+
+#game-title {
+    font-size: 60px;    
+    color: aqua;
+}
+
+
+
+#questions {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+.answers {
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
