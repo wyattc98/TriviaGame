@@ -15,7 +15,6 @@ $('document').ready(function () {
       $("#countdown").text(timeLeft);
       if (timeLeft <= 0) {
         clearInterval(gameTimer);
-        alert("You got " + )
       }
     },1000)
     var question1 = $("options1[]");
